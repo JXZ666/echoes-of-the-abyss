@@ -2,7 +2,7 @@
 
 在蒸汽与诸界交会的世界里，从一个陌生清晨开始自己的生活。
 
-[进入官网](https://slg-king.com/echoes/site/) · [浏览器游玩](https://slg-king.com/echoes/) · [下载 Android 1.2.0](https://github.com/JXZ666/echoes-of-the-abyss/releases/download/v1.2.0/echoes-of-the-abyss-1.2.0.apk) · [反馈问题](https://github.com/JXZ666/echoes-of-the-abyss/issues)
+[进入官网](https://slg-king.com/echoes/site/) · [浏览器游玩](https://slg-king.com/echoes/) · [下载 Android 1.3.0](https://github.com/JXZ666/echoes-of-the-abyss/releases/download/v1.3.0/echoes-of-the-abyss-1.3.0.apk) · [反馈问题](https://github.com/JXZ666/echoes-of-the-abyss/issues)
 
 ![旅途从这里开始](images/world.webp)
 
@@ -27,7 +27,7 @@
 2. 开启新人生；未游玩过时，从凡人身份认识世界。
 3. AI 并非必需。使用时在设置填写自己的服务商 Key，并测试连接。
 
-1.2.0 扩展首都街区与居民生活，带来需要逐步核对的新故事和成长机会。交易、仓库、阶段任务与存档页面重新整理，新增滑动及键盘操作，翻书和小游戏反馈也作了调整。
+1.3.0 整理长期游玩的交互：先说明自己的来意，再听人物回应；对话、线索和变化分别查阅，行动按用途分组。战斗支持选敌、四类指令、即时短战报与可跳过的纸片演出，另补充各有用途和来历的装备。
 
 Android 安装包沿用原证书，支持覆盖升级。升级前建议导出本地存档备份；支持的旧档可转换后续玩，原文件保留。
 
@@ -41,7 +41,7 @@ Android 安装包沿用原证书，支持覆盖升级。升级前建议导出本
 
 ## 更新与反馈
 
-[1.2.0 更新说明](CHANGELOG.md) · [发行说明](DISTRIBUTION.md) · [第三方许可](NOTICE.md)
+[1.3.0 更新说明](CHANGELOG.md) · [发行说明](DISTRIBUTION.md) · [第三方许可](NOTICE.md)
 
 QQ 交流群：**1124074040**。欢迎交流玩法、提交问题和反馈。报告问题时注明版本、设备或浏览器、复现步骤；不要上传 API Key 或包含私人内容的完整存档。
 

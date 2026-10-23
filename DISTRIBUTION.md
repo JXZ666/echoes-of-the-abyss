@@ -3,11 +3,11 @@
 此仓库仅包含公开介绍、展示图片、许可记录和反馈入口；未授予游戏源码的开源许可。
 Releases 的手动附件仅为 Android APK，不附带攻略、源码、签名密钥或个人存档。
 
-游戏版本 1.2.0；包名 com.jxz666.anotherlife；Android 7.0+。正式包关闭调试，沿用原证书以支持覆盖升级。升级前建议导出本地存档或迁移包，并保留一份独立备份；支持的旧档转换后可以继续游玩，原文件保留。
+游戏版本 1.3.0；包名 com.jxz666.anotherlife；Android 7.0+。正式包关闭调试，沿用原证书以支持覆盖升级。升级前建议导出本地存档或迁移包，并保留一份独立备份；支持的旧档转换后可以继续游玩，原文件保留。
 
-[下载 Android 1.2.0](https://github.com/JXZ666/echoes-of-the-abyss/releases/download/v1.2.0/echoes-of-the-abyss-1.2.0.apk) · [宣传官网](https://slg-king.com/echoes/site/) · [浏览器游玩](https://slg-king.com/echoes/)。QQ 交流群：1124074040。
+[下载 Android 1.3.0](https://github.com/JXZ666/echoes-of-the-abyss/releases/download/v1.3.0/echoes-of-the-abyss-1.3.0.apk) · [宣传官网](https://slg-king.com/echoes/site/) · [浏览器游玩](https://slg-king.com/echoes/)。QQ 交流群：1124074040。
 
-1.2.0 扩展首都、成长与同行内容，整理商人交易、仓库分类、任务阶段、存档与阅读操作。传统模式仍可离线游玩，更新检查失败不影响本地游戏。
+1.3.0 整理行动分组、人物问答、线索查阅与战斗指令，增加即时短战报、可跳过的演出及装备。传统模式仍可离线游玩，更新检查失败不影响本地游戏；演出可以加快或关闭。
 
 图片为本项目原创制作或 AI 辅助生成，音乐采用自主作曲和本地音源渲染。应用所用第三方组件的许可归各自权利人，详见 NOTICE。没有使用商业游戏画面或音乐作为安装包资产。
 
