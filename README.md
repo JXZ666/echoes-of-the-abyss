@@ -2,7 +2,7 @@
 
 在蒸汽与诸界交会的世界里，从一个陌生清晨开始自己的生活。
 
-[进入官网](https://slg-king.com/echoes/site/) · [浏览器游玩](https://slg-king.com/echoes/) · [下载 Android 1.5.0](https://github.com/JXZ666/echoes-of-the-abyss/releases/download/v1.5.0/echoes-of-the-abyss-1.5.0.apk) · [反馈问题](https://github.com/JXZ666/echoes-of-the-abyss/issues)
+[进入官网](https://slg-king.com/echoes/site/) · [浏览器游玩](https://slg-king.com/echoes/) · [下载 Android 1.6.0](https://github.com/JXZ666/echoes-of-the-abyss/releases/download/v1.6.0/echoes-of-the-abyss-1.6.0.apk) · [反馈问题](https://github.com/JXZ666/echoes-of-the-abyss/issues)
 
 ![旅途从这里开始](images/world.webp)
 
@@ -27,7 +27,7 @@
 2. 开启新人生；未游玩过时，从凡人身份认识世界。
 3. AI 并非必需。使用时在设置填写自己的服务商 Key，并测试连接。
 
-1.5.0 新增半兽人与士兵出身、随机身份和随见闻积累的世界书。希林牌加入分步教学与顶部规则书，设置支持预览、统一保存和放弃修改。城市见闻与成长选择进一步展开，商店货源与官网音画控制得到修订。
+1.6.0 新增半兽人与士兵出身、随机身份和随见闻积累的世界书。希林牌加入分步教学与顶部规则书，设置支持预览、统一保存和放弃修改。城市见闻与成长选择进一步展开，商店货源与官网音画控制得到修订。
 
 Android 安装包沿用原证书，支持覆盖升级。升级前建议导出本地存档备份；支持的旧档可转换后续玩，原文件保留。
 
@@ -41,7 +41,7 @@ Android 安装包沿用原证书，支持覆盖升级。升级前建议导出本
 
 ## 更新与反馈
 
-[1.5.0 更新说明](CHANGELOG.md) · [发行说明](DISTRIBUTION.md) · [第三方许可](NOTICE.md)
+[1.6.0 更新说明](CHANGELOG.md) · [发行说明](DISTRIBUTION.md) · [第三方许可](NOTICE.md)
 
 QQ 交流群：**1124074040**。欢迎交流玩法、提交问题和反馈。报告问题时注明版本、设备或浏览器、复现步骤；不要上传 API Key 或包含私人内容的完整存档。
 
@@ -50,3 +50,7 @@ QQ 交流群：**1124074040**。欢迎交流玩法、提交问题和反馈。报
 本次未进行真实 AI 服务商联调和手机真机验收；浏览器检查与规则测试不能代表所有设备的表现。
 
 本仓库用于游戏发行与反馈，不包含游戏源码或官方攻略。
+
+## 1.6.0 · 把话说清，行路从容
+
+对白内续问、常驻手牌托盘和场景简图减少来回查找；任务与人物资料更清楚。行动分类默认收起，展开与收起保留阅读位置，手机优先阅读，平板按空间布局。
