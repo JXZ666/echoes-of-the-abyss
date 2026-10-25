@@ -2,7 +2,7 @@
 
 在蒸汽与诸界交会的世界里，从一个陌生清晨开始自己的生活。
 
-[进入官网](https://slg-king.com/echoes/site/) · [浏览器游玩](https://slg-king.com/echoes/) · [下载 Android 2.0.0](https://github.com/JXZ666/echoes-of-the-abyss/releases/download/v2.0.0/echoes-of-the-abyss-2.0.0.apk) · [反馈问题](https://github.com/JXZ666/echoes-of-the-abyss/issues)
+[进入官网](https://slg-king.com/echoes/site/) · [浏览器游玩](https://slg-king.com/echoes/) · [下载 Android 2.1.0](https://github.com/JXZ666/echoes-of-the-abyss/releases/download/v2.1.0/echoes-of-the-abyss-2.1.0.apk) · [反馈问题](https://github.com/JXZ666/echoes-of-the-abyss/issues)
 
 ![旅途从这里开始](images/world.webp)
 
@@ -32,7 +32,7 @@
 
 3. AI 并非必需。使用时在设置填写自己的服务商 Key，并测试连接。
 
-2.0.0 增加国内徒步、地区天气与昼夜变化，已学本领可以辅助生活行动。公会按当地需求更新工作委托；任务支持搜索、地区筛选和过往阶段，战斗增加常用技能与分组战报。修复开局询问粮车路线时可能出现的存档校验错误，十槽存档和已有报价继续保留。
+2.1.0 开放与港国并行的另一条境外旅路，增加家园预约来访、普通医疗与竞价寄售。希林牌扩至32种；对白加入人物头像，普通等级手动确认，武器和能力有对应演出。旧人物与十槽名称继续保留，超凡可玩上限仍为四阶。
 
 Android 安装包沿用原证书，支持覆盖升级。升级前建议导出本地存档备份；支持的旧档可转换后续玩，原文件保留。
 
@@ -46,7 +46,7 @@ Android 安装包沿用原证书，支持覆盖升级。升级前建议导出本
 
 ## 更新与反馈
 
-[2.0.0 更新说明](CHANGELOG.md) · [发行说明](DISTRIBUTION.md) · [第三方许可](NOTICE.md)
+[2.1.0 更新说明](CHANGELOG.md) · [发行说明](DISTRIBUTION.md) · [第三方许可](NOTICE.md)
 
 QQ 交流群：**1124074040**。欢迎交流玩法、提交问题和反馈。报告问题时注明版本、设备或浏览器、复现步骤；不要上传 API Key 或包含私人内容的完整存档。
 
@@ -56,7 +56,7 @@ QQ 交流群：**1124074040**。欢迎交流玩法、提交问题和反馈。报
 
 本仓库用于游戏发行与反馈，不包含游戏源码或官方攻略。
 
-## 2.0.0 · 镜海初航
+## 1.8.0 · 镜海初航
 
 办理文书，乘联运客船前往异国港城。核货、护送、勘路和搜寻需要实际到场、工作与交接；公会资格、谋生主业和个人成长分别记录。新增原创场景与人物画，旧档转换后保留原文件。
 
