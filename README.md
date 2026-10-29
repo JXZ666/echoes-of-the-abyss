@@ -2,7 +2,7 @@
 
 在蒸汽与诸界交会的世界里，从一个陌生清晨开始自己的生活。
 
-[进入官网](https://slg-king.com/echoes/site/) · [浏览器游玩](https://slg-king.com/echoes/) · [下载 Android 3.1.0](https://github.com/JXZ666/echoes-of-the-abyss/releases/download/v2.2.0/echoes-of-the-abyss-2.2.0.apk) · [反馈问题](https://github.com/JXZ666/echoes-of-the-abyss/issues)
+[B站宣传视频](https://www.bilibili.com/video/BV16pno6jEa8/) · [进入官网](https://slg-king.com/echoes/site/) · [浏览器游玩](https://slg-king.com/echoes/) · [下载最新公开 APK](https://github.com/JXZ666/echoes-of-the-abyss/releases/latest) · [反馈问题](https://github.com/JXZ666/echoes-of-the-abyss/issues)
 
 ![旅途从这里开始](images/world.webp)
 
